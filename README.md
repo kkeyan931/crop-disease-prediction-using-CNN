@@ -9,3 +9,10 @@ Automatic detection using image processing techniques provide fast and accurate 
 ### Methodology diagram
 
 ![image](https://user-images.githubusercontent.com/65884897/148332284-ff06fb20-8a0a-4b5f-905c-b46123c06151.png)
+
+
+### Performance
+
+
+![image](https://user-images.githubusercontent.com/65884897/148332346-f7e5899b-6ca1-4540-8f3d-78ebbe8826a4.png)
+
